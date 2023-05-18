@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This project was completed for Quinnipiac University's Advanced Database Programming Course. Utilizing the Microsoft SQL Server and datasets retrieved from both the iNaturalist wesbite/application and the National Oceanic and Atmospheric Administration a database was structured to conveineintly investigate relationships in the data and generate informative reports for different species of animal and how different weather conditions impact the likelihood of observation.
+This project was completed for Quinnipiac University's Advanced Database Programming Course. Utilizing the Microsoft SQL Server and datasets retrieved from both the iNaturalist wesbite/application and the National Oceanic and Atmospheric Administration a database was structured to conveineintly investigate relationships in the data and generate informative reports for different species of animal and how different weather conditions impact the likelihood of their observation.
 
 The "Final_Report" document contains a detailed report on all aspects of this project including the datasets utilized, the analysis performed, and the SQL queries written.
 
